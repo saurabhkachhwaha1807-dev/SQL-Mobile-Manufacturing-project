@@ -1,2 +1,3 @@
-# SQL-Mobile-Manufacturing-project
-Executed a SQL projects on Mobile Sales data. This involved advanced querying for data transformation (cleaning, calculating time metrics) and advanced reporting. I generated key business insights by calculating YoY KPIs, analyzing dispute rates, and producing visualized reports on revenue by category and top-selling entitie
+# 📱 Advanced SQL Case Study: Mobile Manufacturer Data Analysis
+ 
+  This project involved analyzing Mobile Manufacturer sales data structured in a star schema. The analysis focused on complex, multi-table queries to drive business insights, including: identifying the top-buying US   state for a specific brand (e.g., Samsung) , showing transaction volumes by model, zip code, and state , calculating the average price for models within the top five selling manufacturers , and assessing customer    spending habits. A key component was time-based analysis to compare sales between 2009 and 2010, identifying manufacturers and models with inconsistent annual sales presence.
