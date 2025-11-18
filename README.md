@@ -4,3 +4,5 @@
 
 **SQL queries**
 [open pdf](https://github.com/saurabhkachhwaha1807-dev/SQL-Mobile-Manufacturing-project/blob/main/Mobile%20manufacturer%20data%20analysis_ATM.pdf)
+
+https://github.com/saurabhkachhwaha1807-dev/SQL-Mobile-Manufacturing-project/blob/main/mobile%20manufacturer%20data.sql
